@@ -18,6 +18,6 @@ Welcome to the Python Port Scanner! This tool allows you to check for open ports
    ```bash
    https://github.com/potfile0/Project1.git
    cd Project1
-   python3 script.py <target ip>
+   python3 port_scanner_script.py <target ip>
    
 
